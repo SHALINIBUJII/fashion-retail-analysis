@@ -19,8 +19,10 @@ Retail businesses struggle to identify top-performing categories and forecast fu
 - Automated dashboard improved reporting efficiency
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshot here)
-
+![Dashboard Overview](Retail overview.png)
+![Dashboard Overview](Sales Ingishts.png)
+![Dashboard Overview](Retail sales & profit Analysis.png)
+![Dashboard Overview](Sales Overview.png)
 ## 📁 Dataset
 Fashion retail sales dataset (5000+ records)
 
